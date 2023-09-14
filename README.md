@@ -18,6 +18,7 @@ Aprende cómo evitar la carga de múltiples versiones de una dependencia compart
 
 Aquí tienes algunos enlaces útiles relacionados con Module Federation:
 
+- [Presentación (PDF Live Coding)](./Module%20Federation.pdf)
 - [Documentación oficial de Module Federation](https://webpack.js.org/concepts/module-federation/)
 - [Repositorio de Webpack en GitHub](https://github.com/webpack/webpack)
 - [Ejemplos adicionales en la documentación de Module Federation](https://github.com/module-federation/module-federation-examples)
